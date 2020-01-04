@@ -1,7 +1,7 @@
 # Sassy
 A simple project of a responsive home page developed using Sass.
 
-# How to use?
+# How use it?
 
 You can clone this project and open it as a normal HTML file in your browser. This project doesn't use any JavaScript Tool like ReactJS, Angular o Vue. Just HTML and Sass.
 
