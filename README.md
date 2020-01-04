@@ -1,6 +1,8 @@
 # Sassy
 A simple project of a responsive home page developed using Sass.
 
+It was based on [DesignCourse Youtube Channel's Tutorial](https://www.youtube.com/watch?v=roywYSEPSvc).
+
 # How use it?
 
 You can clone this project and open it as a normal HTML file in your browser. This project doesn't use any JavaScript Tool like ReactJS, Angular or Vue. Just HTML and Sass.
